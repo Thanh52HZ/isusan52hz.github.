@@ -1,0 +1,9 @@
+Architectures: iphoneos-arm64
+Codename: ios
+Components: main
+Label: isusan52Hz
+Origin: Repo isusan52Hz
+Suite: stable
+Version: 1.0
+Decription: repo rootless arm64e
+MD5Sum:7483919c9b44926b6328d3ee7750a240
