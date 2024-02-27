@@ -1,0 +1,33 @@
+Package: com.haoict.facebooknoads
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Hao Nguyen
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./com.haoict.facebooknoads_1.4.1_iphoneos-arm64.deb
+Size: 254376
+MD5sum: 7483919c9b44926b6328d3ee7750a240
+SHA1: 918bf787f5cc3ba90d7a90bb172bf78ae36e2ea2
+SHA256: 7fa0b85e0080f01d23f8d69b080073f8ccbdbd555865fcf93196b0da9e3acb37
+Section: Tweaks
+Description: Free & Open Source Tweak for Facebook
+ Free & Open Source Tweak for Facebook
+ Change log: https://github.com/haoict/facebook-no-ads/releases
+ .
+ Features:
+ - Remove Ads
+ - Can Download Video (long press to download)
+ - Can Download Story
+ - Can Only Me Profile Picture
+ - Disable Story Seen (See friends's story without letting them know)
+ - Hide Composer on News Feed
+ - Hide Stories on News Feed
+ - Support iOS 12-14
+ - Support latest Facebook version (If it doesn't work, you should update the app to latest version >= 307.0)
+ .
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ .
+ Thanks a ton
+Author: Hao Nguyen
+Name: Facebook No Ads
